@@ -1,0 +1,1 @@
+/Users/runner/work/Translate_Claude/Translate_Claude/Sources/Scenes/CameraResult/ARTranslationTCGeometry.swift:123:9: error: the compiler is unable to type-check this expression in reasonable time; try breaking up the expression into distinct sub-expressions
