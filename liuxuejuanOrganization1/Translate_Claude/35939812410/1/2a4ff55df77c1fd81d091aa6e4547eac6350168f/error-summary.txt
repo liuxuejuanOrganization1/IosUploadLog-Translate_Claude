@@ -1,0 +1,1 @@
+Validation failed (409) Invalid Info.plist value. The value for the key 'RPBroadcastProcessMode' in bundle TranslateClaude.app/PlugIns/TranslateClaudeBroadcast.appex is invalid. RPBroadcastProcessMode value must be 'RPBroadcastProcessModeSampleBuffer' or 'RPBroadcastProcessModeMP4Clip'. The key was not specified. (ID: 72df2022-e107-430f-87d8-9f82370cda29) 

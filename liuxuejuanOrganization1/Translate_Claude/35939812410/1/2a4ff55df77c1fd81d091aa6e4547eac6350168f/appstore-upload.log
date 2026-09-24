@@ -1,0 +1,15 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-09-24 00:49:46.834 ERROR: [ContentDelivery.Uploader.1016BADD0] 
+=======================================
+UPLOAD FAILED with 1 error
+=======================================
+2026-09-24 00:49:46.836 ERROR: [altool.1016BADD0] Validation failed (409) Invalid Info.plist value. The value for the key 'RPBroadcastProcessMode' in bundle TranslateClaude.app/PlugIns/TranslateClaudeBroadcast.appex is invalid. RPBroadcastProcessMode value must be 'RPBroadcastProcessModeSampleBuffer' or 'RPBroadcastProcessModeMP4Clip'. The key was not specified. (ID: 72df2022-e107-430f-87d8-9f82370cda29)
+   NSUnderlyingError : Validation failed (-19241) Invalid Info.plist value. The value for the key 'RPBroadcastProcessMode' in bundle TranslateClaude.app/PlugIns/TranslateClaudeBroadcast.appex is invalid. RPBroadcastProcessMode value must be 'RPBroadcastProcessModeSampleBuffer' or 'RPBroadcastProcessModeMP4Clip'. The key was not specified.
+      status : 409
+      detail : Invalid Info.plist value. The value for the key 'RPBroadcastProcessMode' in bundle TranslateClaude.app/PlugIns/TranslateClaudeBroadcast.appex is invalid. RPBroadcastProcessMode value must be 'RPBroadcastProcessModeSampleBuffer' or 'RPBroadcastProcessModeMP4Clip'. The key was not specified.
+      id : 72df2022-e107-430f-87d8-9f82370cda29
+      code : STATE_ERROR.VALIDATION_ERROR
+      title : Validation failed
+   iris-code : STATE_ERROR.VALIDATION_ERROR
+Failed to upload package.
