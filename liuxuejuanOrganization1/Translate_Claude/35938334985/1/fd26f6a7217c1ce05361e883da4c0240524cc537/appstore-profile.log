@@ -1,0 +1,10 @@
+Bundle ID 资源匹配：com.tuky.syop.feho.ryub -> RHC6CTW7C6
+证书查询结果：1 个 [ 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.tuky.syop.feho.ryub profile=appstore-com.tuky.syop.feho.ryub-20260924002537571 [id=FZHMDM7S85] uuid=08c10fad-72d6-4157-b8ae-23a8e36c1154
+Bundle ID 资源匹配：com.tuky.syop.feho.ryub.DefaultTranslationProvider -> 64ZAR6SZ37
+签名 profile 新建：bundleId=com.tuky.syop.feho.ryub.DefaultTranslationProvider profile=appstore-com.tuky.syop.feho.ryub.DefaultTranslationProvider-20260924002538014 [id=2L9RR95JP2] uuid=5b697a2c-2e41-4761-8982-8182fa3ca1b4
+Bundle ID 资源匹配：com.tuky.syop.feho.ryub.translateBroadcast -> Q2DKLU78V3
+签名 profile 新建：bundleId=com.tuky.syop.feho.ryub.translateBroadcast profile=appstore-com.tuky.syop.feho.ryub.translateBroadcast-20260924002538390 [id=RCV7P6439U] uuid=06cc2711-1190-4a1c-b5d2-16890c9487d3
+Bundle ID 资源匹配：com.tuky.syop.feho.ryub.translateKeyboard -> T7C3379H2G
+签名 profile 新建：bundleId=com.tuky.syop.feho.ryub.translateKeyboard profile=appstore-com.tuky.syop.feho.ryub.translateKeyboard-20260924002538829 [id=9F8S2RK82Z] uuid=2e3fa2fb-2587-4192-baae-5721e983d03e
+签名 bundleIds: com.tuky.syop.feho.ryub(appstoreconnect, uuid=08c10fad-72d6-4157-b8ae-23a8e36c1154), com.tuky.syop.feho.ryub.DefaultTranslationProvider(appstoreconnect, uuid=5b697a2c-2e41-4761-8982-8182fa3ca1b4), com.tuky.syop.feho.ryub.translateBroadcast(appstoreconnect, uuid=06cc2711-1190-4a1c-b5d2-16890c9487d3), com.tuky.syop.feho.ryub.translateKeyboard(appstoreconnect, uuid=2e3fa2fb-2587-4192-baae-5721e983d03e)
